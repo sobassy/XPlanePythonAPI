@@ -18,7 +18,7 @@ xp.AddDataRef("sim/flightmodel/position/indicated_airspeed", freq=1)
 xp.AddDataRef("sim/flightmodel/position/latitude")
 
 values = xp.GetValues()
-print(values)  # ->
+print(values)
 ```
 
 ### Write Data
