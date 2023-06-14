@@ -1,6 +1,5 @@
 import socket
 import struct
-import serial
 import binascii
 import platform
 
